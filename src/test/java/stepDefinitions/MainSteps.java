@@ -14,15 +14,21 @@ public class MainSteps {
 	public void user_login_into_application(String username, String password) {
 	    // Write code here that turns the phrase above into concrete actions
 		System.out.println("User login into application");
+		System.out.println("User login into application");
+		System.out.println("User login into application");
 	}
 	@Then("Home Page is displayed")
 	public void home_page_is_displayed() {
 	    // Write code here that turns the phrase above into concrete actions
 		System.out.println("Home Page is displayed");
+		System.out.println("Home Page is displayed");
+		System.out.println("Home Page is displayed");
 	}
 	@Then("Cards are displayed")
 	public void cards_are_displayed() {
 	    // Write code here that turns the phrase above into concrete actions
+		System.out.println("Cards are displayed");
+		System.out.println("Cards are displayed");
 		System.out.println("Cards are displayed");
 	}
 }
