@@ -9,6 +9,10 @@ public class MainSteps {
 	public void user_is_on_netbanking_landing_page() {
 	    // Write code here that turns the phrase above into concrete actions
 	    System.out.println("User is on Netbanking landing page");
+	 // Write code here that turns the phrase above into concrete actions
+	 		System.out.println("Cards are displayed");
+	 		System.out.println("Cards are displayed");
+	 		System.out.println("Cards are displayed");
 	}
 	@When("User login into application with {string} and password {string}")
 	public void user_login_into_application(String username, String password) {
@@ -16,6 +20,10 @@ public class MainSteps {
 		System.out.println("User login into application");
 		System.out.println("User login into application");
 		System.out.println("User login into application");
+		// Write code here that turns the phrase above into concrete actions
+				System.out.println("Cards are displayed");
+				System.out.println("Cards are displayed");
+				System.out.println("Cards are displayed");
 	}
 	@Then("Home Page is displayed")
 	public void home_page_is_displayed() {
@@ -23,6 +31,10 @@ public class MainSteps {
 		System.out.println("Home Page is displayed");
 		System.out.println("Home Page is displayed");
 		System.out.println("Home Page is displayed");
+		// Write code here that turns the phrase above into concrete actions
+				System.out.println("User login into application");
+				System.out.println("User login into application");
+				System.out.println("User login into application");
 	}
 	@Then("Cards are displayed")
 	public void cards_are_displayed() {
@@ -30,5 +42,9 @@ public class MainSteps {
 		System.out.println("Cards are displayed");
 		System.out.println("Cards are displayed");
 		System.out.println("Cards are displayed");
+		// Write code here that turns the phrase above into concrete actions
+				System.out.println("User login into application");
+				System.out.println("User login into application");
+				System.out.println("User login into application");
 	}
 }
